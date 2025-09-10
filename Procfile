@@ -1,1 +1,1 @@
-worker: python Lemon/main.py
+python Lemon/main.py
